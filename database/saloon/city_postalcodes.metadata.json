@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"8f06cf7c58ea4052990e46af4644df7f","collectionName":"city_postalcodes","type":"collection"}

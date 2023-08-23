@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"loc.coordinates":"2dsphere"},"name":"loc.coordinates_2dsphere","background":true,"2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"8e5ceee134a84ff798aaf6ff8cff0f3b","collectionName":"users","type":"collection"}

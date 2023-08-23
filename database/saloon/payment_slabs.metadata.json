@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"5c8028eaa09a4422907fc3332cc2b90b","collectionName":"payment_slabs","type":"collection"}
